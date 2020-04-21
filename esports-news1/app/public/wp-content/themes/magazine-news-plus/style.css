@@ -1,0 +1,53 @@
+/*
+Theme Name: Magazine News Plus
+Description: Magazine News Plus is Responsive, Fast to load, SEO Friendly and Customizable WordPress theme for News and Magazine websites. it is child theme of Di Magazine theme and adds additional menu in footer. it also adds well designed recent news slider widget. it register five widget areas on front page so you can display ads, banner or any widget before each category. Front page features: Top News Slider, Secondary Left News Slider, Secondary Right News Grid, Categories wise News Section, Front Page Layout. Theme features: One Click Demo Import, Typography Options, Social Profile, Top Bar Section, Header Layouts, Header Widgets for Advertisement and other Elements, Footer Widgets, Footer Copyright Section, Custom Recent News Widget, Social Profile Widget, Full Width Layout, Left Sidebar Layout, Right Sidebar Layout, Sticky Menu, Mega Menu Support, Back To Top Button Icon, Page Preloader and much more.
+Version: 1.1
+Author: DiThemes
+Author URI: https://dithemes.com/
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, left-sidebar, right-sidebar, grid-layout, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, flexible-header, full-width-template, microformats, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, wide-blocks, blog, news
+Text Domain: magazine-news-plus
+Template: di-magazine
+*/
+
+/* Widget magazine_news_plus_recent_posts_carousel */
+.rpctitleouttr {
+	position: relative;
+	top: 0;
+	background-color: #efefef82;
+	padding: 20px;
+	margin: 0 auto;
+	display: table;
+	width: 100%;
+	text-align: center;
+}
+/* Widget magazine_news_plus_recent_posts_carousel END */
+
+
+/* Footer Menu */
+.footer-menu {
+	list-style-type: none;
+	padding: 20px 0;
+	margin: 0 auto;
+	display: table;
+}
+
+.navbar-nav.footer-menu li {
+	display: inline-block;
+}
+
+.footer-menu li {
+	padding: 12px;
+}
+
+.footer-menu li a {
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-size: 14px;
+}
+
+/* Footer Menu END */
+
+
+
